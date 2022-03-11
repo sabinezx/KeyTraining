@@ -10,12 +10,12 @@ public Bicicleta (String brand, int nivelPoluare, int vitezaMedie ) {
 @Override
 public String motorizare() {
 	// TODO Auto-generated method stub
-	return "";
+	return "10";
 }
 
 @Override
 public String nume() {
-	return "";
+	return "bicicleta";
 }
 
 

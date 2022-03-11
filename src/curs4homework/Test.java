@@ -19,7 +19,7 @@ public class Test {
 	}
 	public void verificaMotorizare(Vehicul v) {
 		
-		System.out.println(v.motorizare() + v.nume());
+		System.out.println("Motorizarea este " + v.motorizare() + " pentru " + v.nume());
 	}
 
 }

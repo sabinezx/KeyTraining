@@ -7,11 +7,11 @@ public class Vehicul {
 	private int vitezaMedie;
 	
 	public String nume() {
-		return "";
+		return "vehicul";
 	}
 	
 	public String motorizare() {
-		return "";
+		return "Unknown";
 	}
 	
 	public void detaliiVehicul () {

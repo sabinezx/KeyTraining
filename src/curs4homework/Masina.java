@@ -12,12 +12,12 @@ public class Masina extends Vehicul {
 	@Override
 	public String motorizare() {
 		// TODO Auto-generated method stub
-		return "";
+		return "100";
 	}
 	
 	@Override
 	public String nume() {
-		return "";
+		return "masina";
 	}
 
 }
