@@ -6,6 +6,14 @@ public class Vehicul {
 	private int nivelPoluare;
 	private int vitezaMedie;
 	
+	
+	//public Vehicul(String brand, int nivelPoluare, int vitezaMedie) {
+		
+		//this.brand = brand;
+		//this.nivelPoluare = nivelPoluare;
+		//this.vitezaMedie = vitezaMedie;
+	//}
+
 	public String nume() {
 		return "vehicul";
 	}
